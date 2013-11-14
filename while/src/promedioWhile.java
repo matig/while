@@ -24,6 +24,8 @@ n=teclado.nextFloat();
 control=++control;		
 suma=suma+n;
 
+
+
 total=++total;
 
 }		
