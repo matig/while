@@ -18,6 +18,8 @@ total=0;
 while (control <10) {
 
 	
+	
+	
 System.out.println("ingrese un valor ");
 
 n=teclado.nextFloat();
